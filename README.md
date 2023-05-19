@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on gaming
 - 📫 How to reach me gaming
 
-(in all seriousness, feel free to explore my repos and website at https://fabio-noga.github.io)
+(in all seriousness, feel free to explore my repos and website at https://noga.zip)
